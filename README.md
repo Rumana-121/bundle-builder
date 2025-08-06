@@ -123,6 +123,8 @@ bundle-builder/
 ## 🍴 How to Fork & Contribute
 
 1. Click **Fork** on GitHub
+<img width="996" height="647" alt="image" src="https://github.com/user-attachments/assets/73121f62-d3f9-4518-8ca0-7db353e64a59" />
+
 
 2. Clone your fork:
 
